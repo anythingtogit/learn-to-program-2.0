@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565735741 source:g:\c++_projects\pong\main.cpp
+	<iostream>
+	<string>
+	"pasta.h"
+
+1565735207 g:\c++_projects\pong\pasta.h
+
+1565735626 source:g:\c++_projects\pong\pasta.cpp
+	"pasta.h"
+	<string>
+	<iostream>
+
