@@ -23,9 +23,14 @@ class classtutorial{
 
 int main()
 {
+    int T = 10;
     pasta boi;
     classtutorial bo("yoyo boy");
     cout << bo.getname();
+    if (T ==10){
+        cout<< "true"<<endl;
+    }
+
 
    // bo.setname("boxiffice_1");
     //cout<< bo.getname()<<endl;
